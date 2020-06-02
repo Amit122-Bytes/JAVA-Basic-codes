@@ -1,4 +1,4 @@
-package StringHandling;
+package importantJavaCodes;
 
 public class substring {
 
